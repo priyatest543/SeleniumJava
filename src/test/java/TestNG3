@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+   <groups>
+	<run>
+		<include name="P1">
+	</run>
+	</groups>
+    <classes>
+      <class name="testpage.NewTest"/>
+      <class name="basictest.TestPage"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
